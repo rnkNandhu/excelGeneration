@@ -7,6 +7,14 @@ This plugin is a hack on a hack. The .xls extension is the only way [some versio
 
 Using the plugin
 -------------------
+Script:
+-------
+
+<script src="https://github.com/rnkNandhu/excelGeneration.js"></script>
+
+------------------------------
+
+
 $("#yourHtmTable").excelGeneration({
     exclude: ".excludeThisClass",
     name: "Worksheet Name",
