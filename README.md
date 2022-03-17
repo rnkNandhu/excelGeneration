@@ -14,10 +14,13 @@ Script:
 
 ------------------------------
 
-
+using Method:
+----------------
 $("#yourHtmTable").excelGeneration({
     exclude: ".excludeThisClass",
     name: "Worksheet Name",
     filename: "SomeFile.xls", // do include extension
     preserveColors: false // set to true if you want background colors and font colors preserved
 });
+
+-------------------------------------------------------------------------------------
