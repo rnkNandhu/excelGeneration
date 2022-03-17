@@ -32,7 +32,7 @@
     var j = "excelGeneration",
             k = {
                 exclude: ".noExl", //common class for remove excel
-                name: "IerpNew"
+                name: "sheetName"
             };
 
     e.prototype = {init: function () {
